@@ -1,0 +1,6 @@
+"Write a C program for a 2D graphics editor that renders shapes onto a 2D array of characters acting as a canvas, using '*' for strokes and '_' for fills.
+The program must satisfy the following requirements:
+Implement specific drawing functions to rasterize a line, rectangle, circle, and triangle onto the canvas.
+Create a system to manage a collection of shape objects, including the ability to add new objects, delete existing objects by an ID, and modify an object's coordinates.
+Use a static 2D character array to store the state of the picture.
+Write a function to display the rendered canvas to the terminal with a clean visual border."
